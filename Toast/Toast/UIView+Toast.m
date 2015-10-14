@@ -46,7 +46,7 @@ static const CGFloat CSToastActivityHeight      = 100.0;
 static const NSString * CSToastActivityDefaultPosition = @"center";
 
 // interaction
-static const BOOL CSToastHidesOnTap             = YES;     // excludes activity views
+static const BOOL CSToastHidesOnTap             = NO;     // excludes activity views
 
 // associative reference keys
 static const NSString * CSToastTimerKey         = @"CSToastTimerKey";
